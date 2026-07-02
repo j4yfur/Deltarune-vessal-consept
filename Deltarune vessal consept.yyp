@@ -1,0 +1,41 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Deltarune vessal consept",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Bodys","folderPath":"folders/Bodys.yy","name":"Bodys","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Legs","folderPath":"folders/Legs.yy","name":"Legs","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Heads","folderPath":"folders/Heads.yy","name":"Heads","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Deltarune vessal consept",
+  "resources":[
+    {"id":{"name":"objVessel","path":"objects/objVessel/objVessel.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprBody0","path":"sprites/sprBody0/sprBody0.yy",},},
+    {"id":{"name":"sprHead0","path":"sprites/sprHead0/sprHead0.yy",},},
+    {"id":{"name":"sprLegs0","path":"sprites/sprLegs0/sprLegs0.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
