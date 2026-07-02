@@ -10,7 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Bodys","folderPath":"folders/Bodys.yy","name":"Bodys","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Body","folderPath":"folders/Body.yy","name":"Body","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Legs","folderPath":"folders/Legs.yy","name":"Legs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Heads","folderPath":"folders/Heads.yy","name":"Heads","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -23,8 +23,11 @@
   },
   "name":"Deltarune vessal consept",
   "resources":[
+    {"id":{"name":"objAccept","path":"objects/objAccept/objAccept.yy",},},
+    {"id":{"name":"objOption","path":"objects/objOption/objOption.yy",},},
     {"id":{"name":"objVessel","path":"objects/objVessel/objVessel.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rmChoose","path":"rooms/rmChoose/rmChoose.yy",},},
+    {"id":{"name":"rmPlayAround","path":"rooms/rmPlayAround/rmPlayAround.yy",},},
     {"id":{"name":"sprBody0","path":"sprites/sprBody0/sprBody0.yy",},},
     {"id":{"name":"sprHead0","path":"sprites/sprHead0/sprHead0.yy",},},
     {"id":{"name":"sprLegs0","path":"sprites/sprLegs0/sprLegs0.yy",},},
@@ -32,7 +35,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmChoose","path":"rooms/rmChoose/rmChoose.yy",},},
+    {"roomId":{"name":"rmPlayAround","path":"rooms/rmPlayAround/rmPlayAround.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
