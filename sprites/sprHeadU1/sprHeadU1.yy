@@ -26,7 +26,7 @@
   ],
   "name":"sprHeadU1",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Heads",
     "path":"folders/Heads.yy",
@@ -88,7 +88,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":10,
-    "yorigin":20,
+    "yorigin":19,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

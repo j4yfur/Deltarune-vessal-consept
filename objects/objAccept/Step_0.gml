@@ -1,7 +1,9 @@
 /// @desc Button input
 
 //Exit event if a global choice variable is still set to -1
-if (global.headChoice == -1 or global.bodyChoice == -1 or global.legChoice == -1)
+if (global.stagment.head == -1 or 
+	global.stagment.body == -1 or 
+	global.stagment.legs == -1)
 	exit;
 
 

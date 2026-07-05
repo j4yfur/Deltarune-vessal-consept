@@ -3,13 +3,13 @@
 //Change the global variable correlated to the body segment selected
 if (segment == "Head")
 {
-	global.headChoice = choice;
+	global.stagment.head = choice;
 }
 else if (segment == "Body")
 {
-	global.bodyChoice = choice;
+	global.stagment.body = choice;
 }
 else if (segment == "Legs")
 {
-	global.legChoice = choice;
+	global.stagment.legs = choice;
 }
