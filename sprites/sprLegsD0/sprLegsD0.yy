@@ -26,7 +26,7 @@
   ],
   "name":"sprLegsD0",
   "nineSlice":null,
-  "origin":1,
+  "origin":9,
   "parent":{
     "name":"Legs",
     "path":"folders/Legs.yy",
@@ -87,7 +87,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":7,
+    "xorigin":8,
     "yorigin":0,
   },
   "swatchColours":null,
