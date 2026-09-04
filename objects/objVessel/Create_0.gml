@@ -2,6 +2,7 @@
 
 scale = 2;
 moveSpd = 2;
+run = 1;
 facing = FACING.DOWN;
 legOfSet = 12;
 headXOffSet = 2;

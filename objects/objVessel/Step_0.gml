@@ -4,9 +4,12 @@
 dx = keyboard_check(vk_right) - keyboard_check(vk_left);
 dy = keyboard_check(vk_down) - keyboard_check(vk_up);
 
-//Offset x and y by of value of 1 or 0 times "moveSpd"
-x += dx * moveSpd;
-y += dy * moveSpd;
+if (keyboard_check(ord("X")))
+	run = 2;
+else
+	run = 1;
+
+move_and_collide(dx * moveSpd * run, dy * moveSpd * run, objCol);
 
 
 //--------Animations--------//
