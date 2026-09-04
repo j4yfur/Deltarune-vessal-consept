@@ -13,3 +13,6 @@ else if (segment == "Legs")
 {
 	global.stagment.legs = choice;
 }
+
+//High light
+image_blend = c_gray;
