@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Body",
-    "path":"folders/Body.yy",
+    "path":"folders/Sprites/Body.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

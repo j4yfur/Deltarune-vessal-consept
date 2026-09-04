@@ -29,7 +29,7 @@
   "origin":1,
   "parent":{
     "name":"Legs",
-    "path":"folders/Legs.yy",
+    "path":"folders/Sprites/Legs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

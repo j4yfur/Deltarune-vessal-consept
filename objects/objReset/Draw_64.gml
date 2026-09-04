@@ -1,0 +1,1 @@
+draw_text(5, 5, "Press R to return to menu")

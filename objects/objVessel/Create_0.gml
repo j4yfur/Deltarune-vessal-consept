@@ -1,10 +1,11 @@
 /// @desc Define body segments 
 
-//Movement speed(spd)
+scale = 2;
 moveSpd = 2;
-
-//Set default facing direction
 facing = FACING.DOWN;
+legOfSet = 12;
+headXOffSet = 2;
+headYOffSet = 4;
 
 enum FACING
 {
